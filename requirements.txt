@@ -1,0 +1,9 @@
+requests
+psycopg2-binary
+python-dotenv
+tabulate
+scikit-learn
+rapidfuzz
+markdown
+rich
+click
